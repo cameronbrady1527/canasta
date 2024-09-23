@@ -1,0 +1,11 @@
+* {
+    margin: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 40px;
+}
